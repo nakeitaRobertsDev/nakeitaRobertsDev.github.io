@@ -29,6 +29,7 @@ hr, .section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
 .mainContent .externalResourcesNav .externalResources {
     background: #33adef;
     transition: all 0.5s ease-in;
+    margin-bottom: 0.5rem;
 }
 
 p.contactText {
