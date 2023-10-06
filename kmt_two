@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlocking the Power of Knowledge Management: A Comprehensive Guide</title>
+    <link rel="icon" type="image/x-icon" href="images\rs_favicon.png">
+    <link rel="stylesheet" type="text/css" href="kmt_two_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700;800&display=swap" rel="stylesheet">
+
+
+    
+</head>
+<body>
+    <div class="page-wrapper">
+        <div class="opening-paragraph">
+            <h1>What is Knowledge Management?</h1>
+
+            <p>Knowledge management is the process of identifying, organizing storing and disseminating information within an organization. A knowledge management specialist ensures that employees can easily access the information they need to make effective decisions and solve problems. They also promote collaboration and knowledge sharing among team members, and continuously improve knowledge management processes. This role is essential for improving organizational efficiency and fostering innovation by optimizing the use of internal knowledge.</p>
+
+        </div>
+        <div class="table-1 table-section">
+
+            <h2>Stages of Knowledge Management</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Stage</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1. Knowledge Creation</td>
+                        <td>Generate new knowledge within the organization.</td>
+                    </tr>
+                    <tr>
+                        <td>2. Knowledge Capture</td>
+                        <td>Collect and document knowledge from various sources.</td>
+                    </tr>
+                    <tr>
+                        <td>3. Knowledge Organization</td>
+                        <td>Categorize and structure knowledge for easy retrieval.</td>
+                    </tr>
+                    <tr>
+                        <td>4. Knowledge Storage</td>
+                        <td>Store knowledge securely in KMS.</td>
+                    </tr>
+                    <tr>
+                        <td>5. Knowledge Retrieval</td>
+                        <td>Enable easy access and search of stored knowledge.</td>
+                    </tr>
+                    <tr>
+                        <td>6. Knowledge Sharing</td>
+                        <td>Facilitate sharing and collaboration among employees.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <div class="table-2 table-section">
+
+            <h2>Knowledge Management Tools</h2>
+
+        <table>
+            <tr>
+                <th>Tool</th>
+                <th>Purpose</th>
+                <th>Examples</th>
+            </tr>
+            <tr>
+                <td>Document Management Systems</td>
+                <td>Organize and centralize documents, manuals, policies, and procedures for easy access and version control.</td>
+                <td>Microsoft SharePoint, dedicated document management systems.</td>
+            </tr>
+            <tr>
+                <td>Content Management Systems (CMS)</td>
+                <td>Manage and publish content for internal and external stakeholders to share information effectively.</td>
+                <td>WordPress, Drupal.</td>
+            </tr>
+            <tr>
+                <td>Knowledge Base Software</td>
+                <td>Create, organize, and share knowledge articles, FAQs, and guides to enhance knowledge sharing.</td>
+                <td>Confluence, Zendesk Guide.</td>
+            </tr>
+            <tr>
+                <td>Database Management Systems (DBMS)</td>
+                <td>Store and manage structured data, ensuring data integrity and accessibility.</td>
+                <td>Microsoft SQL Server, Oracle Database.</td>
+            </tr>
+            <tr>
+                <td>Collaboration and Communication Tools</td>
+                <td>Facilitate communication and collaboration among team members to ensure efficient knowledge sharing.</td>
+                <td>Microsoft Teams, Slack, Skype for Business.</td>
+            </tr>
+            <tr>
+                <td>Mapping and GIS Tools</td>
+                <td>Analyze service areas, optimize routes, and visualize geographic data using GIS tools.</td>
+                <td>ESRI ArcGIS, Google Maps.</td>
+            </tr>
+            <tr>
+                <td>Cloud Storage and Backup Solutions</td>
+                <td>Securely store and back up important documents and data using cloud storage services.</td>
+                <td>Dropbox, Google Drive, AWS S3.</td>
+            </tr>
+        </table>
+
+        </div>
+        <div class="table-3 table-section">
+
+            <h2>Types of Knowledge</h2>
+
+        <table>
+            <tr>
+                <th>Type of Knowledge</th>
+                <th>Definition</th>
+                <th>Examples</th>
+            </tr>
+            <tr>
+                <td>Tacit Knowledge</td>
+                <td>Knowledge acquired through personal experience that is often difficult to articulate or transfer to others.</td>
+                <td>
+                    <ul>
+                        <li>Riding a bicycle: You may know how to ride a bike, but explaining the balance and coordination involved can be challenging.</li>
+                        <li>A chef's intuitive sense of taste and seasoning.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Implicit Knowledge</td>
+                <td>Knowledge that you are aware of but may not be documented. It can also refer to knowledge that is not consciously known.</td>
+                <td>
+                    <ul>
+                        <li>Unwritten rules in a social group, like knowing when it's appropriate to speak or stay quiet.</li>
+                        <li>Intuitive problem-solving skills.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Explicit Knowledge</td>
+                <td>Knowledge that is documented and can be easily communicated to others. It is tangible and accessible.</td>
+                <td>
+                    <ul>
+                        <li>An instruction manual for assembling furniture.</li>
+                        <li>Scientific formulas and equations in a textbook.</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        </div>
+        
+
+        
+
+        
+
+        
+
+        <!-- Add more sections, tables, paragraphs, etc., as needed -->
+
+        
+    </div>
+    
+</body>
+</html>
