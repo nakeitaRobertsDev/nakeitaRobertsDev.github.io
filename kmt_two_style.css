@@ -1,0 +1,82 @@
+
+        /* Common CSS styles */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+
+        .page-wrapper {
+            max-width: 1060px;
+            margin: auto;
+        }
+
+
+        body {
+            background: url(backdrop.png);
+            background-attachment: fixed;
+        }
+
+
+        .table-section th {
+            background: #004a7c;color: #f1edee;
+        }
+
+
+        .table-1 th {
+            background: #d01947;
+        }
+
+
+
+        .table-section td {
+            background: #e4f6fd;
+        }
+        
+
+
+        .opening-paragraph {
+            background: #004a7c;
+            color: #e4f6fd;
+            padding: 10px 20px;
+            border-radius: 20px;
+            box-shadow: 3px 3px 11px rgba(0,0,0,0.8);
+            margin-top: 25px;
+            margin-bottom: 27px;
+        }
+        
+        .opening-paragraph p {
+            color: #e4f6fd;
+        }
+
+        .opening-paragraph h1, .table-section h2  {
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .opening-paragraph p {
+            color: #e4f6fd;
+            font-size: 22px;
+        }
+
+        body {
+            background: url(45degreee_fabric.png);
+            background-attachment: fixed;
+        }
+
+        .table-section {
+            margin-top: 1rem;
+        }
+        
+        
